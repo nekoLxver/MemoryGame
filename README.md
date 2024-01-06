@@ -1,2 +1,2 @@
 # MemoryGame
-Simple (maybe even buggy) memory game about Demon Slayer.
+The simple (maybe even buggy) memory game about Demon Slayer.
